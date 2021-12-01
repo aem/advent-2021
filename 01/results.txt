@@ -1,0 +1,4 @@
+yarn run v1.22.10
+$ node solution.js
+Total count of increasing distances: 1754
+Done in 0.17s.

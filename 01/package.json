@@ -1,0 +1,6 @@
+{
+  "license": "ISC",
+  "scripts": {
+    "go": "node solution.js"
+  }
+}
